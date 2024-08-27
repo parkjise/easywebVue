@@ -16,6 +16,8 @@ import HelloWorld from './components/HelloWorld.vue'
         <RouterLink to="/reactivity">Reactivity</RouterLink>
         <RouterLink to="/computed">Computed</RouterLink>
         <RouterLink to="/conditional">Conditional</RouterLink>
+        <RouterLink to="/list">List Rendering</RouterLink>
+        <RouterLink to="/event">Event Handling</RouterLink>
       </nav>
     </div>
   </header>
