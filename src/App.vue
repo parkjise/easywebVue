@@ -18,6 +18,8 @@ import HelloWorld from './components/HelloWorld.vue'
         <RouterLink to="/conditional">Conditional</RouterLink>
         <RouterLink to="/list">List Rendering</RouterLink>
         <RouterLink to="/event">Event Handling</RouterLink>
+        <RouterLink to="/form">Form Binding</RouterLink>
+        <RouterLink to="/lifecycle">Lifecycle Hooks</RouterLink>
       </nav>
     </div>
   </header>
